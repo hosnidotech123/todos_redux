@@ -1,0 +1,7 @@
+{
+    "todos":[
+        {"id":1,"text":"create react app","status":"completed"},
+        {"id":2,"text":"create redux app","status":"completed"},
+        {"id":3,"text":"create tolkit app","status":"incompleted"}
+    ]
+}
